@@ -2,7 +2,11 @@
 
 App de administração de dinheiro
 Ajuda você a administrar seus gastos e ver se a conta fecha no final do mes
-
+### Forma de uso:
+Você adiciona os seus gastos e as categorias  
+O app funcionaria como uma **tabela de gastos**, mas com metas de gastos demanais  
+e graficos para ver no que vc gasta  
+Ex: `Supermercado R$250 (alimentacao)`
 # Publico alvo
 
 ### Publico Alvo:
@@ -26,12 +30,6 @@ Pessoas que querem cortar gastos ou ter uma melhor administração dos mesmos
 - administra dinheiro com facilidade
 
 # PoupaFacil
-
-### Forma de uso:
-Você adiciona os seus gastos e as categorias  
-O app funcionaria como uma **tabela de gastos**, mas com metas de gastos demanais  
-e graficos para ver no que vc gasta  
-Ex: `Supermercado R$250 (alimentacao)`
 
 ### O que faz o usuario usa-lo constantemente?:
 - Alertas diarios de imprevistos
