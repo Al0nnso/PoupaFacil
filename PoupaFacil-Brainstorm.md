@@ -2,6 +2,8 @@
 ##  Nome: PoupaFacil
 (nome abrasileirado e popular (ja que é focado em pesssoas na populacao brasileira))  
 
+`Cor principal: Verde (estilo picpay) / Branco`
+
 ##  Ideia
 App de administração de dinheiro / gastos e ajuda educação financeira  
 
@@ -56,14 +58,13 @@ Pessoas de classe media que querem cortar gastos ou ter uma melhor administraç�
 - 0,29% dos brasileiros investem na bolsa x 65% dos americanos investem na bolsa
 
 # Exemplos de apps:
-https://www.organizze.com.br (igualzinho)
 https://www.rydoo.com
 
 #### Nosso app
 - Brasileiro
 - Para pessoas
 
-Rydoo x Nosso app
+Rydoo x Nosso app  
 Paypal x Picpay
 
 ### Linguagem
