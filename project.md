@@ -2,6 +2,10 @@
 
 App de administração de dinheiro
 Ajuda você a administrar seus gastos e ver se a conta fecha no final do mes
+### Problema:  
+`Não conseguir administrar seu dinheiro de forma correta`  
+### Resolução:  
+`Ter um aplicativo para listar e contar seus gastos de forma simples`  
 ### Forma de uso:
 Você adiciona os seus gastos e as categorias  
 O app funcionaria como uma **tabela de gastos**, mas com metas de gastos demanais  
