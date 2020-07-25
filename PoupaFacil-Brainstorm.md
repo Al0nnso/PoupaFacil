@@ -14,17 +14,17 @@ Voce administra seu dinheiro com facilidade
 E ele te avisa de qualquer imprevisto  
 Ele calcula e recomenda como cuidar do seu dinheiro  
 
+### Problema:  
+`Não conseguir administrar seu dinheiro de forma correta`  
+### Resolução:  
+`Ter um aplicativo para listar e contar seus gastos de forma simples`  
+
 ### Caso pessoal:
 `Minha mae estava fazendo um curso de investimento (porque a conta nn fechava no final do mes e pa)
 , No inicio do curso o professor não focou em como ganhar mais dinheiro e sim em como administrar seu dinheiro atual (cortar gastos)  
 , Ele disponibilizava uma tabela do excel para colocar seus dados (sua renda / seus gastos)  
 , So q minha mae nn entendeu porra nenhuma de como usava a tabela e tinha que configurar mt coisa  
 , Ent se tivesse um aplicativo facil de mexer e de acessar para ela poder administrar esses gastos hummmm...`
-
-### Problema:  
-`Não conseguir administrar seu dinheiro de forma correta`  
-### Resolução:  
-`Ter um aplicativo para listar e contar seus gastos de forma simples`  
 
 ### Features  
 (@ Adicionados posteriormente)  
