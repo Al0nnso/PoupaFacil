@@ -44,12 +44,6 @@ A quantidade de dinhero que voce economisaria / ganharia cobriria os gastos da a
 **PREÇO:**`R$6 - R$10 - R$16`
 #### R$10,00
 
-### Porque o app é um investimento?
-**INVESTIMENTO**  
-"Em economia, em linhas gerais, investimento significa a aplicação de capital com a expectativa de um benefício futuro."  
-- **Investimento:** R$10 por mes  
-- **Beneficio:** Economizar dinheiro todo mes
-
 -----
 # APP
 <h1 align="center">
@@ -83,6 +77,12 @@ Todas as funções e usos do app
   <img src="UI-UX/6.png" width="200" title="Adicionar">
   <img src="UI-UX/7.png" width="200" title="Metas">
 </p>
+
+### Porque o app é um investimento?
+**INVESTIMENTO**  
+"Em economia, em linhas gerais, investimento significa a aplicação de capital com a expectativa de um benefício futuro."  
+- **Investimento:** R$10 por mes  
+- **Beneficio:** Economizar dinheiro todo mes
 
 -----
 
