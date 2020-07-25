@@ -127,6 +127,8 @@ A quantidade de dinhero que voce economisaria / ganharia cobriria os gastos da a
 - Design da marca (Logo / Identidade visual)
 - Criação de anuncios e propagandas / estrategia de engajamento
 - Marketing e Tráfego de anuncios
+- Dublagem do anuncio (vintepila)
+- Criacao do anuncio
 
 #### Notas (so de inspiracao pra nn se perder no projeto)
 - Criar uma ideia solida e sem furos
