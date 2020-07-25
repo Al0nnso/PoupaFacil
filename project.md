@@ -54,6 +54,10 @@ A quantidade de dinhero que voce economisaria / ganharia cobriria os gastos da a
 - **Investimento:** R$10 por mes  
 - **Beneficio:** Economizar dinheiro todo mes
 
+### Pesquisa inicial
+- **Google Froms**
+`Criação de um formulario sobre como as pessoas administram seu dinheiro`
+
 -----
 # APP
 <h1 align="center">
