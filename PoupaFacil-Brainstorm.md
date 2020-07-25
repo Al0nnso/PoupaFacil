@@ -1,7 +1,6 @@
 # Brainstorm
-##  Nome: XXX
+##  Nome: PoupaFacil
 (nome abrasileirado e popular (ja que é focado em pesssoas na populacao brasileira))  
-PoupaFacil (um nome bem merda mas e so de exemplo kkkk) (facil de decorar e popular brasileiro (abrasileirado))  
 
 ##  Ideia
 App de administração de dinheiro / gastos e ajuda educação financeira  
