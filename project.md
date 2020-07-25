@@ -74,7 +74,7 @@ A quantidade de dinhero que voce economisaria / ganharia cobriria os gastos da a
 Todas as funções e usos do app  
 - 📄 **Listagem de gastos**  
 - ⚠️ **Notificacao de imprevistos**  
-- ✅ **Calculo automatico de ganhos e perdas**  
+- ✅ **Calculo automatico da sua conta no final do mês**  
 - 📊 **Metas de gastos mensais**  
 
 ## Login / Criação de Conta
