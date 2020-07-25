@@ -47,6 +47,10 @@ Pessoas que querem cortar gastos ou ter uma melhor administração dos mesmos
 Um dos pilares da vida e bem-estar é o **dinheiro**  e se o aplicativo vai te **ajudar a salva-lo** ele e um **investimento**.  
 A quantidade de dinhero que voce economiza cobre os gastos da assinatura!
 
+## Pesquisa inicial
+- **Google Froms**
+`Criação de um formulario sobre como as pessoas administram seu dinheiro`
+
 ## Desenvolvimento:
 - Programação frontend app mobile
 - Programação backend app mobile
