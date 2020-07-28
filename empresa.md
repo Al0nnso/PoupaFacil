@@ -1,6 +1,10 @@
 # EMPRESA
 
 ### Nome: X
+* ProjectName:
+* email:
+* senha:
+* senha geral:
 
 #### Subempresas
 - App dev
