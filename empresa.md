@@ -16,7 +16,7 @@ Vicenzo Fonseca de Mello Souza
 
 **Os cargos servem para identificar o foco principal de cada pessoa**
 
-Vicenzo: 
+#### Vicenzo: 
 - Dono
 - **CTO** (chefe de tecnologia)
 - Programador chefe
@@ -24,7 +24,7 @@ Vicenzo:
 - Engelheiro de dados
 - Desenvolvedor frontend
 
-Alonso:
+#### Alonso:
 - Dono
 - **CEO** (gestor de projeto)
 - Designer chefe
@@ -46,7 +46,7 @@ Server
 Marketing
 - Gestor de marketing
 ```
-Tabelas e notas serão feitas na conta da empresa e editadas nas contas pessoais
+> Tabelas e notas serão feitas na conta da empresa e editadas nas contas pessoais
 
 INVISIVEL (podem ser usados nomes provisorios)
 * Google (email)
