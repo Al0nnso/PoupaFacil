@@ -31,21 +31,7 @@
 - Desenvolvedor backend
 - Desenvolvedor DevOps
 - Gestor de marketing
-```
-App
-- Programador chefe
-- Designer chefe
-- Engenheiro de software
-- Desenvolvedor frontend
-- Desenvolvedor DevOps
 
-Server
-- Desenvolvedor backend
-- Engelheiro de dados
-
-Marketing
-- Gestor de marketing
-```
 > Tabelas e notas serão feitas na conta da empresa e editadas nas contas pessoais
 
 INVISIVEL (podem ser usados nomes provisorios)
