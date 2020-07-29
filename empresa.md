@@ -32,18 +32,18 @@ Alonso:
 - Desenvolvedor DevOps
 - Gestor de marketing
 ```
-#### App
+App
 - Programador chefe
 - Designer chefe
 - Engenheiro de software
 - Desenvolvedor frontend
 - Desenvolvedor DevOps
 
-### Server
+Server
 - Desenvolvedor backend
 - Engelheiro de dados
 
-### Marketing
+Marketing
 - Gestor de marketing
 ```
 Tabelas e notas serão feitas na conta da empresa e editadas nas contas pessoais
