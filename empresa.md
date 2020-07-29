@@ -11,10 +11,10 @@
 - Game dev
 
 #### Donos:
-Andres Alonso Bie Perez
-Vicenzo Fonseca de Mello Souza
+> Andres Alonso Bie Perez  
+> Vicenzo Fonseca de Mello Souza
 
-**Os cargos servem para identificar o foco principal de cada pessoa**
+> Os cargos servem para identificar o foco principal de cada pessoa
 
 #### Vicenzo: 
 - Dono
