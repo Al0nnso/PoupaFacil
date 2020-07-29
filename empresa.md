@@ -26,7 +26,7 @@
 
 #### Alonso:
 - Dono
-- **CEO** (gestor de projeto)
+- **CEO** (diretor executivo)
 - Designer chefe
 - Desenvolvedor backend
 - Desenvolvedor DevOps
