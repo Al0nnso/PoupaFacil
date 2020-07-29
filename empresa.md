@@ -31,7 +31,7 @@ Alonso:
 - Desenvolvedor backend
 - Desenvolvedor DevOps
 - Gestor de marketing
-
+```
 #### App
 - Programador chefe
 - Designer chefe
@@ -45,7 +45,7 @@ Alonso:
 
 ### Marketing
 - Gestor de marketing
-
+```
 Tabelas e notas serão feitas na conta da empresa e editadas nas contas pessoais
 
 INVISIVEL (podem ser usados nomes provisorios)
