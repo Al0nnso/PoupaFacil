@@ -17,16 +17,16 @@ Vicenzo Fonseca de Mello Souza
 **Os cargos servem para identificar o foco principal de cada pessoa**
 
 Vicenzo: 
-- Dono / CEO
-- CTO (chefe de tecnologia)
+- Dono
+- **CTO** (chefe de tecnologia)
 - Programador chefe
 - Engenheiro de Software
 - Engelheiro de dados
 - Desenvolvedor frontend
 
 Alonso:
-- Dono / CEO
-- PMO (gestor de projeto)
+- Dono
+- **CEO** (gestor de projeto)
 - Designer chefe
 - Desenvolvedor backend
 - Desenvolvedor DevOps
