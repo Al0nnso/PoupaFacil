@@ -1,6 +1,6 @@
 # Rendimentos
 
-#### Ganhos
+### Ganhos
 (por ordem / investiemnto inicial)
 
 1. Marketing
@@ -9,7 +9,7 @@
 4. Caixa
 5. Alonso / Vicenzo (50% para cada)
 
-#### Exemplo:
+### Exemplo:
 ------
 
 > 30 assinaturas ativas
