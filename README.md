@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="logo.svg" alt="PoupaFacil" width="250">
+  <img src="logo.png" alt="PoupaFacil" width="250">
 <br>
 <br>
 <!--PoupaFacil-->
